@@ -164,7 +164,7 @@ def main():
         st.header("🦜🔗Intersystems Objectscript Reference ChatGPT:")
         user_question = st.text_input("Ask a question about Objectscript Reference:")
     elif rb == 'InterSystems Grand Prix Contest':
-        st.header("🦜🔗nterSystems Grand Prix Contest ChatGPT:")
+        st.header("🦜🔗InterSystems Grand Prix Contest ChatGPT:")
         user_question = st.text_input("Ask a question about InterSystems Grand Prix Contest:")
     elif rb == 'Personal ChatGPT':
         st.header("🦜🔗Personal ChatGPT :books:")
