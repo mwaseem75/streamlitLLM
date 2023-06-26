@@ -1,0 +1,10 @@
+langchain
+openai
+pypdf
+chromadb
+unstructured
+tiktoken
+clickhouse-connect==0.5.22
+sqlalchemy-iris
+streamlit
+faiss-cpu
