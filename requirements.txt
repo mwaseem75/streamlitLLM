@@ -6,5 +6,5 @@ unstructured
 tiktoken
 clickhouse-connect==0.5.22
 sqlalchemy-iris
-streamlit
+streamlit==1.4.0
 faiss-cpu
